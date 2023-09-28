@@ -1,7 +1,7 @@
 import React from 'react'
 import { Sidebar } from '../../Chatroom/Sidebar'
 import { Chat } from '../../Chatroom/Chat'
-import '/home/shreyas/Documents/my_login_page/my_login_page/src/Components/Pages/HomePage/Home.scss'
+import './Home.scss'
 
 export const Home = () => {
   return (
