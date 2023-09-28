@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
-import "/home/shreyas/Documents/my_login_page/my_login_page/src/Components/Pages/Login_page/Page.scss";
-import Loginform from "/home/shreyas/Documents/my_login_page/my_login_page/src/Components/Pages/Login_page/Login.jsx";
-import Signupform from "/home/shreyas/Documents/my_login_page/my_login_page/src/Components/Pages/Login_page/Signup.jsx";
+import "./Page.scss";
+import Loginform from "./Login.jsx";
+import Signupform from "./Signup.jsx";
 import GoogleSignIn from './GoogleSignIn';
 
 
